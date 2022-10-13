@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.wrapper{
+    display: grid;
+    grid-template-columns:300px 300px 300px 300px;
+    gap: 20px;
+    
+}
+
+.card{
+    width: 300px;
+}
+
+.bi-calendar2-plus{
+    font-size: larger;
+    color: rgb(168, 168, 8);
+}
+
